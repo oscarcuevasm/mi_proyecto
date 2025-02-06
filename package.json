@@ -10,13 +10,13 @@
     "url": "git+https://github.com/oscarcuevasm/mi_proyecto.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "JORGE IBORRA Y OSCAR CUEVAS",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/oscarcuevasm/mi_proyecto/issues"
   },
   "homepage": "https://github.com/oscarcuevasm/mi_proyecto#readme",
-  "description": "",
+  "description": "IBORRA",
   "dependencies": {
     "express": "^4.21.2"
   },
